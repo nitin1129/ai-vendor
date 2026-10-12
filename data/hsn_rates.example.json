@@ -1,0 +1,13 @@
+{
+  "_note": "Fill gst_pct for each HSN code with the current rate (confirm with your CA; rates were revised in 2025). Rows with null are skipped by scripts/seed_hsn.py.",
+  "rates": [
+    {"hsn": "2106", "description": "Food preparations n.e.s. (most nutraceuticals and supplements)", "gst_pct": null},
+    {"hsn": "1901", "description": "Malt extract / food preparations of flour, milk-based", "gst_pct": null},
+    {"hsn": "0404", "description": "Whey", "gst_pct": null},
+    {"hsn": "3003", "description": "Medicaments, not in measured doses", "gst_pct": null},
+    {"hsn": "3004", "description": "Medicaments in measured doses (incl. ayurvedic)", "gst_pct": null},
+    {"hsn": "9018", "description": "Medical instruments and appliances", "gst_pct": null},
+    {"hsn": "9025", "description": "Thermometers", "gst_pct": null},
+    {"hsn": "3304", "description": "Beauty / skin-care preparations", "gst_pct": null}
+  ]
+}
